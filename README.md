@@ -19,3 +19,7 @@ Market data is downloaded automatically via `yfinance` when running the notebook
 - `tickers_with_data.csv` — ticker dataset
 - `fred_factors.parquet` — FRED macroeconomic factors
 ```
+## Authors
+
+- Pasquale Bifulco
+- Meenakshi Sundaram G
